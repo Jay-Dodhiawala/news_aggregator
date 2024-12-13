@@ -1,0 +1,6997 @@
+{
+  "total_pages": 200,
+  "pages_with_tables": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    34,
+    42,
+    49,
+    52,
+    59,
+    62,
+    63,
+    64,
+    65,
+    66,
+    81,
+    87,
+    90,
+    91,
+    100,
+    103,
+    104,
+    106,
+    107,
+    108,
+    118,
+    123,
+    128,
+    139,
+    140,
+    146,
+    151,
+    163,
+    176,
+    178,
+    190,
+    193,
+    194
+  ],
+  "table_details": {
+    "page_3_table_1": {
+      "num_rows": 4,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 4,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_4_table_1": {
+      "num_rows": 2,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.3
+    },
+    "page_5_table_1": {
+      "num_rows": 10,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 10,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_6_table_1": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_2": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_3": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_4": {
+      "num_rows": 3,
+      "num_cols": 3,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_6_table_5": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_6": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_7": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_8": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_9": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_6_table_10": {
+      "num_rows": 3,
+      "num_cols": 3,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_6_table_11": {
+      "num_rows": 11,
+      "num_cols": 6,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [
+        2,
+        4,
+        5
+      ],
+      "financial_metrics": {
+        "total_rows": 11,
+        "numeric_columns": 3,
+        "has_totals": true
+      },
+      "confidence_score": 0.55
+    },
+    "page_6_table_12": {
+      "num_rows": 7,
+      "num_cols": 6,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 4,
+        "has_totals": true
+      },
+      "confidence_score": 0.6000000000000001
+    },
+    "page_6_table_13": {
+      "num_rows": 15,
+      "num_cols": 4,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 15,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_7_table_1": {
+      "num_rows": 8,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 8,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_7_table_2": {
+      "num_rows": 7,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_7_table_3": {
+      "num_rows": 4,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 4,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_7_table_4": {
+      "num_rows": 4,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 4,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_8_table_1": {
+      "num_rows": 18,
+      "num_cols": 6,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [
+        1,
+        2,
+        4
+      ],
+      "financial_metrics": {
+        "total_rows": 18,
+        "numeric_columns": 3,
+        "has_totals": true
+      },
+      "confidence_score": 0.8499999999999999
+    },
+    "page_8_table_2": {
+      "num_rows": 18,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [
+        1,
+        2
+      ],
+      "financial_metrics": {
+        "total_rows": 18,
+        "numeric_columns": 2,
+        "has_totals": true
+      },
+      "confidence_score": 0.8499999999999999
+    },
+    "page_9_table_1": {
+      "num_rows": 18,
+      "num_cols": 6,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [
+        1,
+        2,
+        4
+      ],
+      "financial_metrics": {
+        "total_rows": 18,
+        "numeric_columns": 3,
+        "has_totals": true
+      },
+      "confidence_score": 0.8499999999999999
+    },
+    "page_9_table_2": {
+      "num_rows": 18,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [
+        1,
+        2
+      ],
+      "financial_metrics": {
+        "total_rows": 18,
+        "numeric_columns": 2,
+        "has_totals": true
+      },
+      "confidence_score": 0.8499999999999999
+    },
+    "page_9_table_3": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_34_table_1": {
+      "num_rows": 33,
+      "num_cols": 8,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 33,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_34_table_2": {
+      "num_rows": 18,
+      "num_cols": 14,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 18,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_42_table_1": {
+      "num_rows": 33,
+      "num_cols": 8,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 33,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_42_table_2": {
+      "num_rows": 18,
+      "num_cols": 14,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 18,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_49_table_1": {
+      "num_rows": 2,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_49_table_2": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_49_table_3": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_52_table_1": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_59_table_1": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_62_table_1": {
+      "num_rows": 15,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 15,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_62_table_2": {
+      "num_rows": 14,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 14,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_63_table_1": {
+      "num_rows": 15,
+      "num_cols": 4,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 15,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_63_table_2": {
+      "num_rows": 14,
+      "num_cols": 4,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 14,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_64_table_1": {
+      "num_rows": 6,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 6,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_64_table_2": {
+      "num_rows": 11,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 11,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.7
+    },
+    "page_64_table_3": {
+      "num_rows": 7,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.7
+    },
+    "page_65_table_1": {
+      "num_rows": 8,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 8,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.7
+    },
+    "page_65_table_2": {
+      "num_rows": 8,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 8,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_65_table_3": {
+      "num_rows": 2,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_65_table_4": {
+      "num_rows": 5,
+      "num_cols": 1,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 5,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_66_table_1": {
+      "num_rows": 13,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 13,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_66_table_2": {
+      "num_rows": 2,
+      "num_cols": 1,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_81_table_1": {
+      "num_rows": 2,
+      "num_cols": 1,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_87_table_1": {
+      "num_rows": 2,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_87_table_2": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_87_table_3": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_90_table_1": {
+      "num_rows": 1,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [
+        1,
+        2
+      ],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 2,
+        "has_totals": false
+      },
+      "confidence_score": 0.19999999999999998
+    },
+    "page_90_table_2": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_91_table_1": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_91_table_2": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "cash_flow",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_100_table_1": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_103_table_1": {
+      "num_rows": 15,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 15,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_104_table_1": {
+      "num_rows": 15,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 15,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_104_table_2": {
+      "num_rows": 16,
+      "num_cols": 4,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 16,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_104_table_3": {
+      "num_rows": 14,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 14,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.5
+    },
+    "page_106_table_1": {
+      "num_rows": 3,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_106_table_2": {
+      "num_rows": 9,
+      "num_cols": 4,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 9,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.7
+    },
+    "page_107_table_1": {
+      "num_rows": 7,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.7
+    },
+    "page_107_table_2": {
+      "num_rows": 9,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 9,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_107_table_3": {
+      "num_rows": 8,
+      "num_cols": 3,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 8,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_107_table_4": {
+      "num_rows": 6,
+      "num_cols": 1,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 6,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_108_table_1": {
+      "num_rows": 4,
+      "num_cols": 1,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 4,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_108_table_2": {
+      "num_rows": 6,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 6,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_108_table_3": {
+      "num_rows": 2,
+      "num_cols": 1,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_118_table_1": {
+      "num_rows": 1,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.5
+    },
+    "page_123_table_1": {
+      "num_rows": 3,
+      "num_cols": 1,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 3,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.5
+    },
+    "page_123_table_2": {
+      "num_rows": 5,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 5,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_123_table_3": {
+      "num_rows": 5,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 5,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_128_table_1": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_139_table_1": {
+      "num_rows": 6,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 6,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_139_table_2": {
+      "num_rows": 7,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_139_table_3": {
+      "num_rows": 7,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_139_table_4": {
+      "num_rows": 7,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_140_table_1": {
+      "num_rows": 7,
+      "num_cols": 3,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 7,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.4
+    },
+    "page_140_table_2": {
+      "num_rows": 5,
+      "num_cols": 1,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 5,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_146_table_1": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.3
+    },
+    "page_151_table_1": {
+      "num_rows": 2,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.5
+    },
+    "page_163_table_1": {
+      "num_rows": 2,
+      "num_cols": 1,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.5
+    },
+    "page_176_table_1": {
+      "num_rows": 2,
+      "num_cols": 1,
+      "table_type": "balance_sheet",
+      "has_headers": true,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.3
+    },
+    "page_178_table_1": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_178_table_2": {
+      "num_rows": 1,
+      "num_cols": 2,
+      "table_type": "general_financial",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 1,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_190_table_1": {
+      "num_rows": 2,
+      "num_cols": 2,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 2,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.0
+    },
+    "page_193_table_1": {
+      "num_rows": 6,
+      "num_cols": 3,
+      "table_type": "balance_sheet",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 6,
+        "numeric_columns": 0,
+        "has_totals": false
+      },
+      "confidence_score": 0.2
+    },
+    "page_194_table_1": {
+      "num_rows": 9,
+      "num_cols": 1,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 9,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_194_table_2": {
+      "num_rows": 8,
+      "num_cols": 1,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 8,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_194_table_3": {
+      "num_rows": 9,
+      "num_cols": 1,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 9,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_194_table_4": {
+      "num_rows": 8,
+      "num_cols": 1,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 8,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    },
+    "page_194_table_5": {
+      "num_rows": 6,
+      "num_cols": 1,
+      "table_type": "income_statement",
+      "has_headers": false,
+      "numeric_columns": [],
+      "financial_metrics": {
+        "total_rows": 6,
+        "numeric_columns": 0,
+        "has_totals": true
+      },
+      "confidence_score": 0.2
+    }
+  },
+  "tables_extracted": [
+    {
+      "table_key": "page_3_table_1",
+      "data": [
+        {
+          "0": "Name of the entity (ies) forming part of the amalgamationmerger",
+          "1": "Transferor Companies - i. WongDoody Inc, (WD) ii. Outbox Systems Inc., d.b.a Simplus, (Simplus) iii. Blue Acorn iCi Inc, and (BA) iv. Kaleidoscope Animations Inc. (Kaleidoscope) Transferee Company - i. Infosys Nova Holdings LLC, (Nova) a wholly owned subsidiary of Infosys Limited"
+        },
+        {
+          "0": "Whether the transaction would fall within related party transactions If yes, whether the same is done at arms length",
+          "1": "WD is a wholly owned subsidiary of the Infosys Limited and Simplus, BA and Kaleidoscope are wholly owned subsidiaries of Nova The transaction is between wholly owned subsidiaries of Infosys Limited. Therefore, it is exempted as per Regulation 23(5) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015"
+        },
+        {
+          "0": "Area of business of the entity (ies)",
+          "1": "WD is a US-based, full-service creative and consumer insights advertising agency (Revenue for FY ending Dec23  USD 123.7 million) Simplus provides enterprise-wide digital transformation across the Salesforce ecosystem through advisory, implementation, change management, and managed services (Revenue for FY ending Jan24  USD 106.0 million) BA is a leading digital experience company that empowers global brands to deliver remarkable customer experiences and enables clients to navigate large-scale digital transformation programs. (Revenue for FY ending Dec23  USD 88.5 million) Kaleidoscope is a product design, development and insights firm, with services focused primarily on medical devices. (Revenue for FY ending Dec23  USD 45.0 million)"
+        },
+        {
+          "0": "Rationale for amalgamation merger",
+          "1": "a. To enable synergies of operations, b. To rationalize the legal entity structure."
+        }
+      ],
+      "metadata": {
+        "num_rows": 4,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 4,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_4_table_1",
+      "data": [
+        {
+          "0": "In case of cash consideration  amount or otherwise share exchange ratio",
+          "1": "Both the Transferor Companies and the Transferee Company are wholly owned subsidiaries of Infosys Limited. There is no cash consideration or issue of shares involved under the scheme of merger."
+        },
+        {
+          "0": "Brief details of change in shareholding pattern (if any) of listed entity",
+          "1": "There is no change in the shareholding pattern of Infosys Limited."
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.3
+      }
+    },
+    {
+      "table_key": "page_5_table_1",
+      "data": [
+        {
+          "0": "Name of the target entity,",
+          "1": "Blitz 24-893 SE Acquirer Infosys Singapore Pte Ltd., a wholly owned s ubsidiary of Infosys Limited"
+        },
+        {
+          "0": "Whether the acquisition would fall within related party transaction(s) and whether the promoter promoter group group companies have any interest in the entity being acquired",
+          "1": "N o"
+        },
+        {
+          "0": "Industry to which the entity being acquired belongs",
+          "1": "Blitz 24-893 SE was incorporated in August 2024 and the company does not have any operations. The objective of the entity would be to provide Information Technology (IT) and Information Technology (IT) enabled services post- acquisition"
+        },
+        {
+          "0": "Objects and effects of acquisition",
+          "1": "Acquired for business operation purposes"
+        },
+        {
+          "0": "Any governmental or regulatory approvals required for the acquisition",
+          "1": "N o"
+        },
+        {
+          "0": "Indicative time period for completion of the acquisition",
+          "1": "The acquisition of Blitz 24-893 SE is expected to close during fiscal year 2025"
+        },
+        {
+          "0": "Nature of consideration",
+          "1": "Cash"
+        },
+        {
+          "0": "Cost of acquisition or the price at which the shares are acquired",
+          "1": "EUR 135,000 including cash"
+        },
+        {
+          "0": "Percentage of holding",
+          "1": "100 of the equity share capital in- Blitz 24-893 SE"
+        },
+        {
+          "0": "Brief Background",
+          "1": "Blitz 24-893 SE was incorporated in August 2024 and the c ompany does not have any operations."
+        }
+      ],
+      "metadata": {
+        "num_rows": 10,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 10,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_6_table_1",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "3.1 QoQ 3.3 YoY CC Growth"
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_2",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "21.1 Operating Margin"
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_3",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "4.7 YoY EPS Increase ( terms)"
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_4",
+      "data": [
+        {
+          "0": "",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "2.4 Bn Large Deal TCV",
+          "1": "",
+          "2": "839 Mn Free Cash Flow"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 3,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_6_table_5",
+      "data": [
+        {
+          "0": "3.1 QoQ"
+        },
+        {
+          "0": "3.3 YoY"
+        },
+        {
+          "0": "CC Growth"
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_6",
+      "data": [
+        {
+          "0": "21.1"
+        },
+        {
+          "0": "Operating"
+        },
+        {
+          "0": "Margin"
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_7",
+      "data": [
+        {
+          "0": "4.7 YoY"
+        },
+        {
+          "0": "EPS Increase"
+        },
+        {
+          "0": "( terms)"
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_8",
+      "data": [
+        {
+          "0": "2.4 Bn"
+        },
+        {
+          "0": "Large Deal"
+        },
+        {
+          "0": "TCV"
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_9",
+      "data": [
+        {
+          "0": "839 Mn"
+        },
+        {
+          "0": "Free"
+        },
+        {
+          "0": "Cash Flow"
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_6_table_10",
+      "data": [
+        {
+          "0": "",
+          "1": "Reported",
+          "2": "CC"
+        },
+        {
+          "0": "QoQ growth ()",
+          "1": "3.8",
+          "2": "3.1"
+        },
+        {
+          "0": "YoY growth ()",
+          "1": "3.7",
+          "2": "3.3"
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 3,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_6_table_11",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null,
+          "4": "YoY Growth",
+          "5": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023",
+          "4": "Reported",
+          "5": "CC"
+        },
+        {
+          "0": "Financial services",
+          "1": "27.2",
+          "2": "27.5",
+          "3": "27.5",
+          "4": "2.8",
+          "5": "2.3"
+        },
+        {
+          "0": "Retail",
+          "1": "13.3",
+          "2": "13.8",
+          "3": "15.2",
+          "4": "(9.2)",
+          "5": "(9.6)"
+        },
+        {
+          "0": "Communication",
+          "1": "11.9",
+          "2": "12.1",
+          "3": "11.4",
+          "4": "7.9",
+          "5": "7.0"
+        },
+        {
+          "0": "Energy, Utilities, Resources  Services",
+          "1": "13.5",
+          "2": "13.3",
+          "3": "12.7",
+          "4": "10.7",
+          "5": "10.9"
+        },
+        {
+          "0": "Manufacturing",
+          "1": "15.7",
+          "2": "14.7",
+          "3": "14.3",
+          "4": "13.5",
+          "5": "12.3"
+        },
+        {
+          "0": "Hi-Tech",
+          "1": "8 .0",
+          "2": "8 .0",
+          "3": "7 .8",
+          "4": "5.6",
+          "5": "6.0"
+        },
+        {
+          "0": "Life Sciences",
+          "1": "7 .3",
+          "2": "7 .3",
+          "3": "7 .8",
+          "4": "(2.8)",
+          "5": "(3.5)"
+        },
+        {
+          "0": "Others",
+          "1": "3 .1",
+          "2": "3 .3",
+          "3": "3 .3",
+          "4": "(2.4)",
+          "5": "(1.2)"
+        },
+        {
+          "0": "Total",
+          "1": "1 00.0",
+          "2": "100.0",
+          "3": "1 00.0",
+          "4": "3.7",
+          "5": "3.3"
+        }
+      ],
+      "metadata": {
+        "num_rows": 11,
+        "num_cols": 6,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [
+          2,
+          4,
+          5
+        ],
+        "financial_metrics": {
+          "total_rows": 11,
+          "numeric_columns": 3,
+          "has_totals": true
+        },
+        "confidence_score": 0.55
+      }
+    },
+    {
+      "table_key": "page_6_table_12",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null,
+          "4": "YoY Growth",
+          "5": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023",
+          "4": "Reported",
+          "5": "CC"
+        },
+        {
+          "0": "North America",
+          "1": "5 7.4",
+          "2": "58.9",
+          "3": "61.1",
+          "4": "(2.6)",
+          "5": "(2.7)"
+        },
+        {
+          "0": "Europe",
+          "1": "2 9.8",
+          "2": "28.4",
+          "3": "26.5",
+          "4": "16.7",
+          "5": "15.5"
+        },
+        {
+          "0": "Rest of the world",
+          "1": "9 .7",
+          "2": "9.6",
+          "3": "9.6",
+          "4": "4.8",
+          "5": "3.8"
+        },
+        {
+          "0": "India",
+          "1": "3 .1",
+          "2": "3.1",
+          "3": "2.8",
+          "4": "14.7",
+          "5": "16.0"
+        },
+        {
+          "0": "Total",
+          "1": "1 00.0",
+          "2": "100.0",
+          "3": "100.0",
+          "4": "3.7",
+          "5": "3.3"
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 6,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 4,
+          "has_totals": true
+        },
+        "confidence_score": 0.6000000000000001
+      }
+    },
+    {
+      "table_key": "page_6_table_13",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023"
+        },
+        {
+          "0": "Number of Clients",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Active",
+          "1": "1,870",
+          "2": "1,867",
+          "3": "1,884"
+        },
+        {
+          "0": "Added during the period (gross)",
+          "1": "86",
+          "2": "87",
+          "3": "1 00"
+        },
+        {
+          "0": "Number of Million dollar clients",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "1 Million dollar",
+          "1": "9 85",
+          "2": "9 87",
+          "3": "9 51"
+        },
+        {
+          "0": "10 Million dollar",
+          "1": "3 07",
+          "2": "3 09",
+          "3": "3 12"
+        },
+        {
+          "0": "50 Million dollar",
+          "1": "86",
+          "2": "84",
+          "3": "80"
+        },
+        {
+          "0": "100 Million dollar",
+          "1": "41",
+          "2": "40",
+          "3": "39"
+        },
+        {
+          "0": "Client contribution to revenues",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Top 5 clients",
+          "1": "13.7",
+          "2": "13.5",
+          "3": "13.3"
+        },
+        {
+          "0": "Top 10 clients",
+          "1": "20.9",
+          "2": "20.9",
+          "3": "19.9"
+        },
+        {
+          "0": "Top 25 clients",
+          "1": "34.7",
+          "2": "34.9",
+          "3": "34.1"
+        },
+        {
+          "0": "Days Sales Outstanding",
+          "1": "73",
+          "2": "72",
+          "3": "67"
+        }
+      ],
+      "metadata": {
+        "num_rows": 15,
+        "num_cols": 4,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 15,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_7_table_1",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023"
+        },
+        {
+          "0": "Effort",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Onsite",
+          "1": "24.1",
+          "2": "23.9",
+          "3": "24.6"
+        },
+        {
+          "0": "Offshore",
+          "1": "75.9",
+          "2": "76.1",
+          "3": "75.4"
+        },
+        {
+          "0": "Utilization",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Including trainees",
+          "1": "84.3",
+          "2": "83.9",
+          "3": "80.4"
+        },
+        {
+          "0": "Excluding trainees",
+          "1": "85.9",
+          "2": "85.3",
+          "3": "81.8"
+        }
+      ],
+      "metadata": {
+        "num_rows": 8,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 8,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_7_table_2",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023"
+        },
+        {
+          "0": "Total employees",
+          "1": "317,788",
+          "2": "315,332",
+          "3": "328,764"
+        },
+        {
+          "0": "SW professionals",
+          "1": "300,774",
+          "2": "298,123",
+          "3": "310,375"
+        },
+        {
+          "0": "Sales  Support",
+          "1": "17,014",
+          "2": "17,209",
+          "3": "18,389"
+        },
+        {
+          "0": "Voluntary Attrition  (LTM - IT Services)",
+          "1": "12.9",
+          "2": "12.7",
+          "3": "14.6"
+        },
+        {
+          "0": "of Women Employees",
+          "1": "39.0",
+          "2": "39.2",
+          "3": "39.4"
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_7_table_3",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023"
+        },
+        {
+          "0": "Free cash flow (1)",
+          "1": "8 39",
+          "2": "1,094",
+          "3": "6 70"
+        },
+        {
+          "0": "Consolidated cash and investments (2)(3)",
+          "1": "4,626",
+          "2": "4,311",
+          "3": "4,170"
+        }
+      ],
+      "metadata": {
+        "num_rows": 4,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 4,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_7_table_4",
+      "data": [
+        {
+          "0": "",
+          "1": "Quarter ended",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "Sep 30, 2024",
+          "2": "Jun 30, 2024",
+          "3": "Sep 30, 2023"
+        },
+        {
+          "0": "Free cash flow (1)",
+          "1": "7,010",
+          "2": "9,155",
+          "3": "5,536"
+        },
+        {
+          "0": "Consolidated cash and investments (2)(3)",
+          "1": "38,767",
+          "2": "35,943",
+          "3": "34,635"
+        }
+      ],
+      "metadata": {
+        "num_rows": 4,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 4,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_8_table_1",
+      "data": [
+        {
+          "0": "Particulars",
+          "1": "Sep 30, 2024",
+          "2": "Sep 30, 2023",
+          "3": "Growth  YoY",
+          "4": "Jun 30, 2024",
+          "5": "Growth  QoQ"
+        },
+        {
+          "0": "Revenues",
+          "1": "4,894",
+          "2": "4 ,718",
+          "3": "3.7",
+          "4": "4,714",
+          "5": "3.8"
+        },
+        {
+          "0": "Cost of sales",
+          "1": "3,400",
+          "2": "3,271",
+          "3": "3.9",
+          "4": "3,259",
+          "5": "4.3"
+        },
+        {
+          "0": "Gross Profit",
+          "1": "1,494",
+          "2": "1,447",
+          "3": "3.2",
+          "4": "1,455",
+          "5": "2.7"
+        },
+        {
+          "0": "Operating Expenses",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Selling and marketing expenses",
+          "1": "221",
+          "2": "213",
+          "3": "3.8",
+          "4": "232",
+          "5": "-4.7"
+        },
+        {
+          "0": "Administrative expenses",
+          "1": "240",
+          "2": "234",
+          "3": "2.6",
+          "4": "229",
+          "5": "4.8"
+        },
+        {
+          "0": "Total Operating Expenses",
+          "1": "461",
+          "2": "447",
+          "3": "3.1",
+          "4": "461",
+          "5": "0.0"
+        },
+        {
+          "0": "Operating Profit",
+          "1": "1,033",
+          "2": "1,000",
+          "3": "3.3",
+          "4": "994",
+          "5": "3.9"
+        },
+        {
+          "0": "Operating Margin",
+          "1": "21.1",
+          "2": "21.2",
+          "3": "-0.1",
+          "4": "21.1",
+          "5": "0.0"
+        },
+        {
+          "0": "Other Income, net(1)",
+          "1": "72",
+          "2": "60",
+          "3": "20.0",
+          "4": "88",
+          "5": "-18.2"
+        },
+        {
+          "0": "Profit before income taxes",
+          "1": "1,105",
+          "2": "1,060",
+          "3": "4.2",
+          "4": "1,082",
+          "5": "2.1"
+        },
+        {
+          "0": "Income tax expense",
+          "1": "327",
+          "2": "309",
+          "3": "5.8",
+          "4": "318",
+          "5": "2.8"
+        },
+        {
+          "0": "Net Profit (before minority interest)",
+          "1": "778",
+          "2": "751",
+          "3": "3.6",
+          "4": "764",
+          "5": "1.8"
+        },
+        {
+          "0": "Net Profit (after minority interest)",
+          "1": "777",
+          "2": "751",
+          "3": "3.5",
+          "4": "763",
+          "5": "1.7"
+        },
+        {
+          "0": "Basic EPS ()",
+          "1": "0.19",
+          "2": "0.18",
+          "3": "3.4",
+          "4": "0.18",
+          "5": "1.7"
+        },
+        {
+          "0": "Diluted EPS ()",
+          "1": "0.19",
+          "2": "0.18",
+          "3": "3.3",
+          "4": "0.18",
+          "5": "1.7"
+        },
+        {
+          "0": "Dividend Per Share ()(2)(3)",
+          "1": "0.25",
+          "2": "0.22",
+          "3": "16.7",
+          "4": "-",
+          "5": "-"
+        }
+      ],
+      "metadata": {
+        "num_rows": 18,
+        "num_cols": 6,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [
+          1,
+          2,
+          4
+        ],
+        "financial_metrics": {
+          "total_rows": 18,
+          "numeric_columns": 3,
+          "has_totals": true
+        },
+        "confidence_score": 0.8499999999999999
+      }
+    },
+    {
+      "table_key": "page_8_table_2",
+      "data": [
+        {
+          "0": "Particulars",
+          "1": "Sep 30, 2024",
+          "2": "Sep 30, 2023",
+          "3": "Growth"
+        },
+        {
+          "0": "Revenues",
+          "1": "9,608",
+          "2": "9,334",
+          "3": "2.9"
+        },
+        {
+          "0": "Cost of sales",
+          "1": "6,659",
+          "2": "6,481",
+          "3": "2.7"
+        },
+        {
+          "0": "Gross Profit",
+          "1": "2,949",
+          "2": "2 ,853",
+          "3": "3.4"
+        },
+        {
+          "0": "Operating Expenses",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Selling and marketing expenses",
+          "1": "4 54",
+          "2": "429",
+          "3": "5.8"
+        },
+        {
+          "0": "Administrative expenses",
+          "1": "469",
+          "2": "463",
+          "3": "1.3"
+        },
+        {
+          "0": "Total Operating Expenses",
+          "1": "923",
+          "2": "892",
+          "3": "3.5"
+        },
+        {
+          "0": "Operating Profit",
+          "1": "2 ,026",
+          "2": "1 ,961",
+          "3": "3.3"
+        },
+        {
+          "0": "Operating Margin",
+          "1": "21.1",
+          "2": "21.0",
+          "3": "0.1"
+        },
+        {
+          "0": "Other Income, net(1)",
+          "1": "160",
+          "2": "117",
+          "3": "36.8"
+        },
+        {
+          "0": "Profit before income taxes",
+          "1": "2 ,186",
+          "2": "2 ,078",
+          "3": "5.2"
+        },
+        {
+          "0": "Income tax expense",
+          "1": "6 44",
+          "2": "6 03",
+          "3": "6.8"
+        },
+        {
+          "0": "Net Profit (before minority interest)",
+          "1": "1 ,542",
+          "2": "1,475",
+          "3": "4.6"
+        },
+        {
+          "0": "Net Profit (after minority interest)",
+          "1": "1,540",
+          "2": "1,475",
+          "3": "4.5"
+        },
+        {
+          "0": "Basic EPS ()",
+          "1": "0.37",
+          "2": "0.36",
+          "3": "4.4"
+        },
+        {
+          "0": "Diluted EPS ()",
+          "1": "0.37",
+          "2": "0.36",
+          "3": "4.3"
+        },
+        {
+          "0": "Dividend Per Share ()(2)(3)",
+          "1": "0.25",
+          "2": "0.22",
+          "3": "16.7"
+        }
+      ],
+      "metadata": {
+        "num_rows": 18,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [
+          1,
+          2
+        ],
+        "financial_metrics": {
+          "total_rows": 18,
+          "numeric_columns": 2,
+          "has_totals": true
+        },
+        "confidence_score": 0.8499999999999999
+      }
+    },
+    {
+      "table_key": "page_9_table_1",
+      "data": [
+        {
+          "0": "Particulars",
+          "1": "Sep 30, 2024",
+          "2": "Sep 30, 2023",
+          "3": "Growth  YoY",
+          "4": "Jun 30, 2024",
+          "5": "Growth  QoQ"
+        },
+        {
+          "0": "Revenues",
+          "1": "40,986",
+          "2": "38,994",
+          "3": "5.1",
+          "4": "39,315",
+          "5": "4.2"
+        },
+        {
+          "0": "Cost of sales",
+          "1": "28,474",
+          "2": "27,031",
+          "3": "5.3",
+          "4": "27,177",
+          "5": "4.8"
+        },
+        {
+          "0": "Gross Profit",
+          "1": "12,512",
+          "2": "11,963",
+          "3": "4.6",
+          "4": "12,138",
+          "5": "3.1"
+        },
+        {
+          "0": "Operating Expenses",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Selling and marketing expenses",
+          "1": "1,855",
+          "2": "1,754",
+          "3": "5.8",
+          "4": "1,937",
+          "5": "-4.2"
+        },
+        {
+          "0": "Administrative expenses",
+          "1": "2,008",
+          "2": "1,935",
+          "3": "3.8",
+          "4": "1,913",
+          "5": "5.0"
+        },
+        {
+          "0": "Total Operating Expenses",
+          "1": "3,863",
+          "2": "3,689",
+          "3": "4.7",
+          "4": "3,850",
+          "5": "0.3"
+        },
+        {
+          "0": "Operating Profit",
+          "1": "8,649",
+          "2": "8,274",
+          "3": "4.5",
+          "4": "8,288",
+          "5": "4.4"
+        },
+        {
+          "0": "Operating Margin",
+          "1": "21.1",
+          "2": "21.2",
+          "3": "-0.1",
+          "4": "21.1",
+          "5": "0.0"
+        },
+        {
+          "0": "Other Income, net(1)",
+          "1": "604",
+          "2": "494",
+          "3": "22.3",
+          "4": "733",
+          "5": "-17.6"
+        },
+        {
+          "0": "Profit before income taxes",
+          "1": "9,253",
+          "2": "8,768",
+          "3": "5.5",
+          "4": "9,021",
+          "5": "2.6"
+        },
+        {
+          "0": "Income tax expense",
+          "1": "2,737",
+          "2": "2,553",
+          "3": "7.2",
+          "4": "2,647",
+          "5": "3.4"
+        },
+        {
+          "0": "Net Profit (before minority interest)",
+          "1": "6,516",
+          "2": "6,215",
+          "3": "4.8",
+          "4": "6,374",
+          "5": "2.2"
+        },
+        {
+          "0": "Net Profit (after minority interest)",
+          "1": "6,506",
+          "2": "6,212",
+          "3": "4.7",
+          "4": "6,368",
+          "5": "2.2"
+        },
+        {
+          "0": "Basic EPS ()",
+          "1": "15.71",
+          "2": "15.01",
+          "3": "4.7",
+          "4": "15.38",
+          "5": "2.1"
+        },
+        {
+          "0": "Diluted EPS ()",
+          "1": "15.68",
+          "2": "14.99",
+          "3": "4.5",
+          "4": "15.35",
+          "5": "2.1"
+        },
+        {
+          "0": "Dividend Per Share ()",
+          "1": "21.00",
+          "2": "18.00",
+          "3": "16.7",
+          "4": "-",
+          "5": "-"
+        }
+      ],
+      "metadata": {
+        "num_rows": 18,
+        "num_cols": 6,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [
+          1,
+          2,
+          4
+        ],
+        "financial_metrics": {
+          "total_rows": 18,
+          "numeric_columns": 3,
+          "has_totals": true
+        },
+        "confidence_score": 0.8499999999999999
+      }
+    },
+    {
+      "table_key": "page_9_table_2",
+      "data": [
+        {
+          "0": "Particulars",
+          "1": "Sep 30, 2024",
+          "2": "Sep 30, 2023",
+          "3": "Growth"
+        },
+        {
+          "0": "Revenues",
+          "1": "80,300",
+          "2": "76,927",
+          "3": "4.4"
+        },
+        {
+          "0": "Cost of sales",
+          "1": "55,651",
+          "2": "53,412",
+          "3": "4.2"
+        },
+        {
+          "0": "Gross Profit",
+          "1": "24,649",
+          "2": "23,515",
+          "3": "4.8"
+        },
+        {
+          "0": "Operating Expenses",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Selling and marketing expenses",
+          "1": "3,792",
+          "2": "3,538",
+          "3": "7.2"
+        },
+        {
+          "0": "Administrative expenses",
+          "1": "3,920",
+          "2": "3,812",
+          "3": "2.8"
+        },
+        {
+          "0": "Total Operating Expenses",
+          "1": "7 ,712",
+          "2": "7 ,350",
+          "3": "4.9"
+        },
+        {
+          "0": "Operating Profit",
+          "1": "16,937",
+          "2": "16,165",
+          "3": "4.8"
+        },
+        {
+          "0": "Operating Margin",
+          "1": "21.1",
+          "2": "21.0",
+          "3": "0.1"
+        },
+        {
+          "0": "Other Income, net(1)",
+          "1": "1,337",
+          "2": "9 65",
+          "3": "38.5"
+        },
+        {
+          "0": "Profit before income taxes",
+          "1": "18,274",
+          "2": "17,130",
+          "3": "6.7"
+        },
+        {
+          "0": "Income tax expense",
+          "1": "5,384",
+          "2": "4,970",
+          "3": "8.3"
+        },
+        {
+          "0": "Net Profit (before minority interest)",
+          "1": "12,890",
+          "2": "12,160",
+          "3": "6.0"
+        },
+        {
+          "0": "Net Profit (after minority interest)",
+          "1": "12,874",
+          "2": "12,157",
+          "3": "5.9"
+        },
+        {
+          "0": "Basic EPS ()",
+          "1": "3 1.09",
+          "2": "29.38",
+          "3": "5.8"
+        },
+        {
+          "0": "Diluted EPS ()",
+          "1": "31.02",
+          "2": "29.34",
+          "3": "5.7"
+        },
+        {
+          "0": "Dividend Per Share ()",
+          "1": "21.00",
+          "2": "18.00",
+          "3": "16.7"
+        }
+      ],
+      "metadata": {
+        "num_rows": 18,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [
+          1,
+          2
+        ],
+        "financial_metrics": {
+          "total_rows": 18,
+          "numeric_columns": 2,
+          "has_totals": true
+        },
+        "confidence_score": 0.8499999999999999
+      }
+    },
+    {
+      "table_key": "page_9_table_3",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "As the quarter and six months ended figures are taken from the source and rounded to the nearest digits, the quarter figures in this statement added up to the figures"
+        },
+        {
+          "0": "reported for the previous quarter might not always add up to the year ended figures reported in this statement."
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_34_table_1",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": "September 30, 2024",
+          "5": "",
+          "6": "",
+          "7": "March 31, 2024"
+        },
+        {
+          "0": "",
+          "1": "ASSETS",
+          "2": "",
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Current assets",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Cash and cash equivalents",
+          "2": "",
+          "3": "",
+          "4": "21,799",
+          "5": "",
+          "6": "",
+          "7": "14,786"
+        },
+        {
+          "0": "Current investments",
+          "1": null,
+          "2": null,
+          "3": "7,432",
+          "4": null,
+          "5": null,
+          "6": "12,915",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Trade receivables",
+          "2": "",
+          "3": "",
+          "4": "32,013",
+          "5": "",
+          "6": "",
+          "7": "30,193"
+        },
+        {
+          "0": "Unbilled revenue",
+          "1": null,
+          "2": null,
+          "3": "13,066",
+          "4": null,
+          "5": null,
+          "6": "12,768",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Other current assets",
+          "2": "",
+          "3": "",
+          "4": "15,221",
+          "5": "",
+          "6": "",
+          "7": "18,770"
+        },
+        {
+          "0": "Total current assets",
+          "1": null,
+          "2": null,
+          "3": "89,531",
+          "4": null,
+          "5": null,
+          "6": "89,432",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Non-current assets",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Property, plant and equipment and Right-of-use assets",
+          "1": null,
+          "2": null,
+          "3": "19,148",
+          "4": null,
+          "5": null,
+          "6": "19,370",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Goodwill and other Intangible assets",
+          "2": "",
+          "3": "",
+          "4": "13,445",
+          "5": "",
+          "6": "",
+          "7": "8,700"
+        },
+        {
+          "0": "Non-current investments",
+          "1": null,
+          "2": null,
+          "3": "9,962",
+          "4": null,
+          "5": null,
+          "6": "11,708",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Unbilled revenue",
+          "2": "",
+          "3": "",
+          "4": "2,135",
+          "5": "",
+          "6": "",
+          "7": "1,780"
+        },
+        {
+          "0": "Other non-current assets",
+          "1": null,
+          "2": null,
+          "3": "7,649",
+          "4": null,
+          "5": null,
+          "6": "6,824",
+          "7": null
+        },
+        {
+          "0": "Total non-current assets",
+          "1": null,
+          "2": null,
+          "3": "52,339",
+          "4": null,
+          "5": null,
+          "6": "48,382",
+          "7": null
+        },
+        {
+          "0": "Total assets",
+          "1": null,
+          "2": null,
+          "3": "141,870",
+          "4": null,
+          "5": null,
+          "6": "137,814",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "LIABILITIES AND EQUITY",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Current liabilities",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Trade payables",
+          "2": "",
+          "3": "",
+          "4": "3,841",
+          "5": "",
+          "6": "",
+          "7": "3,956"
+        },
+        {
+          "0": "Unearned revenue",
+          "1": null,
+          "2": null,
+          "3": "7,209",
+          "4": null,
+          "5": null,
+          "6": "7,341",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Employee benefit obligations",
+          "2": "",
+          "3": "",
+          "4": "2,872",
+          "5": "",
+          "6": "",
+          "7": "2,622"
+        },
+        {
+          "0": "Other current liabilities and provisions",
+          "1": null,
+          "2": null,
+          "3": "26,908",
+          "4": null,
+          "5": null,
+          "6": "24,875",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total current liabilities",
+          "2": "",
+          "3": "",
+          "4": "40,830",
+          "5": "",
+          "6": "",
+          "7": "38,794"
+        },
+        {
+          "0": "Non-current liabilities",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Lease liabilities",
+          "2": "",
+          "3": "",
+          "4": "6,336",
+          "5": "",
+          "6": "",
+          "7": "6,400"
+        },
+        {
+          "0": "Other non-current liabilities",
+          "1": null,
+          "2": null,
+          "3": "3,874",
+          "4": null,
+          "5": null,
+          "6": "4,159",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total non-current liabilities",
+          "2": "",
+          "3": "",
+          "4": "10,210",
+          "5": "",
+          "6": "",
+          "7": "10,559"
+        },
+        {
+          "0": "Total liabilities",
+          "1": null,
+          "2": null,
+          "3": "51,040",
+          "4": null,
+          "5": null,
+          "6": "49,353",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total equity attributable to equity holders of the company",
+          "2": "",
+          "3": "",
+          "4": "90,463",
+          "5": "",
+          "6": "",
+          "7": "88,116"
+        },
+        {
+          "0": "Non-controlling interests",
+          "1": null,
+          "2": null,
+          "3": "367",
+          "4": null,
+          "5": null,
+          "6": "345",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total equity",
+          "2": "",
+          "3": "",
+          "4": "90,830",
+          "5": "",
+          "6": "",
+          "7": "88,461"
+        },
+        {
+          "0": "Total liabilities and equity",
+          "1": null,
+          "2": null,
+          "3": "141,870",
+          "4": null,
+          "5": null,
+          "6": "137,814",
+          "7": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 33,
+        "num_cols": 8,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 33,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_34_table_2",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": "3 months ended",
+          "5": "",
+          "6": "",
+          "7": "3 months ended",
+          "8": "",
+          "9": "",
+          "10": "6 months ended",
+          "11": "",
+          "12": "",
+          "13": "6 months ended"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": "September 30,",
+          "5": null,
+          "6": null,
+          "7": "September 30,",
+          "8": null,
+          "9": null,
+          "10": "September 30,",
+          "11": null,
+          "12": null,
+          "13": "September 30,"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": "2024",
+          "5": null,
+          "6": null,
+          "7": "2023",
+          "8": null,
+          "9": null,
+          "10": "2024",
+          "11": null,
+          "12": null,
+          "13": "2023"
+        },
+        {
+          "0": "",
+          "1": "Revenues",
+          "2": "",
+          "3": "",
+          "4": "40,986",
+          "5": "",
+          "6": "",
+          "7": "38,994",
+          "8": "",
+          "9": "",
+          "10": "80,300",
+          "11": "",
+          "12": "",
+          "13": "76,927"
+        },
+        {
+          "0": "Cost of sales",
+          "1": null,
+          "2": null,
+          "3": "28,474",
+          "4": null,
+          "5": null,
+          "6": "27,031",
+          "7": null,
+          "8": null,
+          "9": "55,651",
+          "10": null,
+          "11": null,
+          "12": "53,412",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Gross profit",
+          "2": "",
+          "3": "",
+          "4": "12,512",
+          "5": "",
+          "6": "",
+          "7": "11,963",
+          "8": "",
+          "9": "",
+          "10": "24,649",
+          "11": "",
+          "12": "",
+          "13": "23,515"
+        },
+        {
+          "0": "Operating expenses",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null,
+          "8": null,
+          "9": "",
+          "10": null,
+          "11": null,
+          "12": "",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Selling and marketing expenses",
+          "2": "",
+          "3": "",
+          "4": "1,855",
+          "5": "",
+          "6": "",
+          "7": "1,754",
+          "8": "",
+          "9": "",
+          "10": "3,792",
+          "11": "",
+          "12": "",
+          "13": "3,538"
+        },
+        {
+          "0": "Administrative expenses",
+          "1": null,
+          "2": null,
+          "3": "2,008",
+          "4": null,
+          "5": null,
+          "6": "1,935",
+          "7": null,
+          "8": null,
+          "9": "3,920",
+          "10": null,
+          "11": null,
+          "12": "3,812",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Total operating expenses",
+          "2": "",
+          "3": "",
+          "4": "3,863",
+          "5": "",
+          "6": "",
+          "7": "3,689",
+          "8": "",
+          "9": "",
+          "10": "7,712",
+          "11": "",
+          "12": "",
+          "13": "7,350"
+        },
+        {
+          "0": "Operating profit",
+          "1": null,
+          "2": null,
+          "3": "8,649",
+          "4": null,
+          "5": null,
+          "6": "8,274",
+          "7": null,
+          "8": null,
+          "9": "16,937",
+          "10": null,
+          "11": null,
+          "12": "16,165",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Other income, net (3)",
+          "2": "",
+          "3": "",
+          "4": "604",
+          "5": "",
+          "6": "",
+          "7": "494",
+          "8": "",
+          "9": "",
+          "10": "1,337",
+          "11": "",
+          "12": "",
+          "13": "965"
+        },
+        {
+          "0": "Profit before income taxes",
+          "1": null,
+          "2": null,
+          "3": "9,253",
+          "4": null,
+          "5": null,
+          "6": "8,768",
+          "7": null,
+          "8": null,
+          "9": "18,274",
+          "10": null,
+          "11": null,
+          "12": "17,130",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Income tax expense",
+          "2": "",
+          "3": "",
+          "4": "2,737",
+          "5": "",
+          "6": "",
+          "7": "2,553",
+          "8": "",
+          "9": "",
+          "10": "5,384",
+          "11": "",
+          "12": "",
+          "13": "4,970"
+        },
+        {
+          "0": "Net profit (before minority interest)",
+          "1": null,
+          "2": null,
+          "3": "6,516",
+          "4": null,
+          "5": null,
+          "6": "6,215",
+          "7": null,
+          "8": null,
+          "9": "12,890",
+          "10": null,
+          "11": null,
+          "12": "12,160",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Net profit (after minority interest)",
+          "2": "",
+          "3": "",
+          "4": "6,506",
+          "5": "",
+          "6": "",
+          "7": "6,212",
+          "8": "",
+          "9": "",
+          "10": "12,874",
+          "11": "",
+          "12": "",
+          "13": "12,157"
+        },
+        {
+          "0": "Basic EPS ()",
+          "1": null,
+          "2": null,
+          "3": "15.71",
+          "4": null,
+          "5": null,
+          "6": "15.01",
+          "7": null,
+          "8": null,
+          "9": "31.09",
+          "10": null,
+          "11": null,
+          "12": "29.38",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Diluted EPS ()",
+          "2": "",
+          "3": "",
+          "4": "15.68",
+          "5": "",
+          "6": "",
+          "7": "14.99",
+          "8": "",
+          "9": "",
+          "10": "31.02",
+          "11": "",
+          "12": "",
+          "13": "29.34"
+        }
+      ],
+      "metadata": {
+        "num_rows": 18,
+        "num_cols": 14,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 18,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_42_table_1",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": "September 30, 2024",
+          "5": "",
+          "6": "",
+          "7": "March 31, 2024"
+        },
+        {
+          "0": "",
+          "1": "ASSETS",
+          "2": "",
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Current assets",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Cash and cash equivalents",
+          "2": "",
+          "3": "",
+          "4": "2,601",
+          "5": "",
+          "6": "",
+          "7": "1,773"
+        },
+        {
+          "0": "Current investments",
+          "1": null,
+          "2": null,
+          "3": "887",
+          "4": null,
+          "5": null,
+          "6": "1,548",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Trade receivables",
+          "2": "",
+          "3": "",
+          "4": "3,820",
+          "5": "",
+          "6": "",
+          "7": "3,620"
+        },
+        {
+          "0": "Unbilled revenue",
+          "1": null,
+          "2": null,
+          "3": "1,559",
+          "4": null,
+          "5": null,
+          "6": "1,531",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Other current assets",
+          "2": "",
+          "3": "",
+          "4": "1,817",
+          "5": "",
+          "6": "",
+          "7": "2,250"
+        },
+        {
+          "0": "Total current assets",
+          "1": null,
+          "2": null,
+          "3": "10,684",
+          "4": null,
+          "5": null,
+          "6": "10,722",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Non-current assets",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Property, plant and equipment and Right-of-use assets",
+          "1": null,
+          "2": null,
+          "3": "2,284",
+          "4": null,
+          "5": null,
+          "6": "2,323",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Goodwill and other Intangible assets",
+          "2": "",
+          "3": "",
+          "4": "1,604",
+          "5": "",
+          "6": "",
+          "7": "1,042"
+        },
+        {
+          "0": "Non-current investments",
+          "1": null,
+          "2": null,
+          "3": "1,189",
+          "4": null,
+          "5": null,
+          "6": "1,404",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Unbilled revenue",
+          "2": "",
+          "3": "",
+          "4": "255",
+          "5": "",
+          "6": "",
+          "7": "213"
+        },
+        {
+          "0": "Other non-current assets",
+          "1": null,
+          "2": null,
+          "3": "912",
+          "4": null,
+          "5": null,
+          "6": "819",
+          "7": null
+        },
+        {
+          "0": "Total non-current assets",
+          "1": null,
+          "2": null,
+          "3": "6,244",
+          "4": null,
+          "5": null,
+          "6": "5,801",
+          "7": null
+        },
+        {
+          "0": "Total assets",
+          "1": null,
+          "2": null,
+          "3": "16,928",
+          "4": null,
+          "5": null,
+          "6": "16,523",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "LIABILITIES AND EQUITY",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Current liabilities",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Trade payables",
+          "2": "",
+          "3": "",
+          "4": "458",
+          "5": "",
+          "6": "",
+          "7": "474"
+        },
+        {
+          "0": "Unearned revenue",
+          "1": null,
+          "2": null,
+          "3": "860",
+          "4": null,
+          "5": null,
+          "6": "880",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Employee benefit obligations",
+          "2": "",
+          "3": "",
+          "4": "343",
+          "5": "",
+          "6": "",
+          "7": "314"
+        },
+        {
+          "0": "Other current liabilities and provisions",
+          "1": null,
+          "2": null,
+          "3": "3,210",
+          "4": null,
+          "5": null,
+          "6": "2,983",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total current liabilities",
+          "2": "",
+          "3": "",
+          "4": "4,871",
+          "5": "",
+          "6": "",
+          "7": "4,651"
+        },
+        {
+          "0": "Non-current liabilities",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Lease liabilities",
+          "2": "",
+          "3": "",
+          "4": "756",
+          "5": "",
+          "6": "",
+          "7": "767"
+        },
+        {
+          "0": "Other non-current liabilities",
+          "1": null,
+          "2": null,
+          "3": "463",
+          "4": null,
+          "5": null,
+          "6": "500",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total non-current liabilities",
+          "2": "",
+          "3": "",
+          "4": "1,219",
+          "5": "",
+          "6": "",
+          "7": "1,267"
+        },
+        {
+          "0": "Total liabilities",
+          "1": null,
+          "2": null,
+          "3": "6,090",
+          "4": null,
+          "5": null,
+          "6": "5,918",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total equity attributable to equity holders of the company",
+          "2": "",
+          "3": "",
+          "4": "10,789",
+          "5": "",
+          "6": "",
+          "7": "10,559"
+        },
+        {
+          "0": "Non-controlling interests",
+          "1": null,
+          "2": null,
+          "3": "49",
+          "4": null,
+          "5": null,
+          "6": "46",
+          "7": null
+        },
+        {
+          "0": "",
+          "1": "Total equity",
+          "2": "",
+          "3": "",
+          "4": "10,838",
+          "5": "",
+          "6": "",
+          "7": "10,605"
+        },
+        {
+          "0": "Total liabilities and equity",
+          "1": null,
+          "2": null,
+          "3": "16,928",
+          "4": null,
+          "5": null,
+          "6": "16,523",
+          "7": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 33,
+        "num_cols": 8,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 33,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_42_table_2",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": "3 months ended",
+          "5": "",
+          "6": "",
+          "7": "3 months ended",
+          "8": "",
+          "9": "",
+          "10": "6 months ended",
+          "11": "",
+          "12": "",
+          "13": "6 months ended"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": "September 30,",
+          "5": null,
+          "6": null,
+          "7": "September 30,",
+          "8": null,
+          "9": null,
+          "10": "September 30,",
+          "11": null,
+          "12": null,
+          "13": "September 30,"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": "2024",
+          "5": null,
+          "6": null,
+          "7": "2023",
+          "8": null,
+          "9": null,
+          "10": "2024",
+          "11": null,
+          "12": null,
+          "13": "2023"
+        },
+        {
+          "0": "",
+          "1": "Revenues",
+          "2": "",
+          "3": "",
+          "4": "4,894",
+          "5": "",
+          "6": "",
+          "7": "4,718",
+          "8": "",
+          "9": "",
+          "10": "9,608",
+          "11": "",
+          "12": "",
+          "13": "9,334"
+        },
+        {
+          "0": "Cost of sales",
+          "1": null,
+          "2": null,
+          "3": "3,400",
+          "4": null,
+          "5": null,
+          "6": "3,271",
+          "7": null,
+          "8": null,
+          "9": "6,659",
+          "10": null,
+          "11": null,
+          "12": "6,481",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Gross profit",
+          "2": "",
+          "3": "",
+          "4": "1,494",
+          "5": "",
+          "6": "",
+          "7": "1,447",
+          "8": "",
+          "9": "",
+          "10": "2,949",
+          "11": "",
+          "12": "",
+          "13": "2,853"
+        },
+        {
+          "0": "Operating expenses",
+          "1": null,
+          "2": null,
+          "3": "",
+          "4": null,
+          "5": null,
+          "6": "",
+          "7": null,
+          "8": null,
+          "9": "",
+          "10": null,
+          "11": null,
+          "12": "",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Selling and marketing expenses",
+          "2": "",
+          "3": "",
+          "4": "221",
+          "5": "",
+          "6": "",
+          "7": "213",
+          "8": "",
+          "9": "",
+          "10": "454",
+          "11": "",
+          "12": "",
+          "13": "429"
+        },
+        {
+          "0": "Administrative expenses",
+          "1": null,
+          "2": null,
+          "3": "240",
+          "4": null,
+          "5": null,
+          "6": "234",
+          "7": null,
+          "8": null,
+          "9": "469",
+          "10": null,
+          "11": null,
+          "12": "463",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Total operating expenses",
+          "2": "",
+          "3": "",
+          "4": "461",
+          "5": "",
+          "6": "",
+          "7": "447",
+          "8": "",
+          "9": "",
+          "10": "923",
+          "11": "",
+          "12": "",
+          "13": "892"
+        },
+        {
+          "0": "Operating profit",
+          "1": null,
+          "2": null,
+          "3": "1,033",
+          "4": null,
+          "5": null,
+          "6": "1,000",
+          "7": null,
+          "8": null,
+          "9": "2,026",
+          "10": null,
+          "11": null,
+          "12": "1,961",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "p",
+          "2": "",
+          "3": "",
+          "4": "72",
+          "5": "",
+          "6": "",
+          "7": "60",
+          "8": "",
+          "9": "",
+          "10": "160",
+          "11": "",
+          "12": "",
+          "13": "117"
+        },
+        {
+          "0": "Profit before income taxes",
+          "1": null,
+          "2": null,
+          "3": "1,105",
+          "4": null,
+          "5": null,
+          "6": "1,060",
+          "7": null,
+          "8": null,
+          "9": "2,186",
+          "10": null,
+          "11": null,
+          "12": "2,078",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Income tax expense",
+          "2": "",
+          "3": "",
+          "4": "327",
+          "5": "",
+          "6": "",
+          "7": "309",
+          "8": "",
+          "9": "",
+          "10": "644",
+          "11": "",
+          "12": "",
+          "13": "603"
+        },
+        {
+          "0": "Net profit (before minority interest)",
+          "1": null,
+          "2": null,
+          "3": "778",
+          "4": null,
+          "5": null,
+          "6": "751",
+          "7": null,
+          "8": null,
+          "9": "1,542",
+          "10": null,
+          "11": null,
+          "12": "1,475",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Net profit (after minority interest)",
+          "2": "",
+          "3": "",
+          "4": "777",
+          "5": "",
+          "6": "",
+          "7": "751",
+          "8": "",
+          "9": "",
+          "10": "1,540",
+          "11": "",
+          "12": "",
+          "13": "1,475"
+        },
+        {
+          "0": "Basic EPS ()",
+          "1": null,
+          "2": null,
+          "3": "0.19",
+          "4": null,
+          "5": null,
+          "6": "0.18",
+          "7": null,
+          "8": null,
+          "9": "0.37",
+          "10": null,
+          "11": null,
+          "12": "0.36",
+          "13": null
+        },
+        {
+          "0": "",
+          "1": "Diluted EPS ()",
+          "2": "",
+          "3": "",
+          "4": "0.19",
+          "5": "",
+          "6": "",
+          "7": "0.18",
+          "8": "",
+          "9": "",
+          "10": "0.37",
+          "11": "",
+          "12": "",
+          "13": "0.36"
+        }
+      ],
+      "metadata": {
+        "num_rows": 18,
+        "num_cols": 14,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 18,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_49_table_1",
+      "data": [
+        {
+          "0": null,
+          "1": "4,894 4,718 9,608 9,334"
+        },
+        {
+          "0": "Cost of sales 2.19 3,400 3,271 6,659 6,481",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_49_table_2",
+      "data": [
+        {
+          "0": "Operating profit 1,033 1,000 2,026 1,961",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "85 77 186 145"
+        },
+        {
+          "0": "Finance cost 13 17 26 28",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_49_table_3",
+      "data": [
+        {
+          "0": "Income tax expense 2.12 327 309 644 603",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "778 751 1,542 1,475"
+        },
+        {
+          "0": "Other comprehensive income",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_52_table_1",
+      "data": [
+        {
+          "0": "Other payments",
+          "1": "(32) (40)"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_59_table_1",
+      "data": [
+        {
+          "0": "Cost of fulfillment(2) 54 43",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "18 21"
+        },
+        {
+          "0": "Other financial assets(1)(4) 147 112",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_62_table_1",
+      "data": [
+        {
+          "0": "Gross carrying value as at July 1, 2024 171 1,408 639 1,034 401 6 3,659",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 2 10 20 8 -",
+          "2": "40"
+        },
+        {
+          "0": "Additions - Business Combination (Refer to Note 2.10) - - 1 1 3 - 5",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- - (4) (13) (4) -",
+          "2": "(21)"
+        },
+        {
+          "0": "Translation difference - (2) (2) (2) 1 - (5)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2024 171 1,408 644 1,040 409 6 3,678",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Accumulated depreciation as at July 1, 2024 - (602) (507) (785) (325) (5) (2,224)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (14) (12) (37) (10) -",
+          "2": "(73)"
+        },
+        {
+          "0": "Accumulated depreciation on deletions - - 4 12 4 - 20",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": "- 1 2 2 - -",
+          "2": "5"
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2024 - (615) (513) (808) (331) (5) (2,272)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at July 1, 2024",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at July 1, 2024 171 806 132 249 76 1 1,504",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2024",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2024 171 793 131 232 78 1 1,486",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 15,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 15,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_62_table_2",
+      "data": [
+        {
+          "0": "Gross carrying value as at July 1, 2023",
+          "1": "174 1,403 627 1,033 411 5",
+          "2": "3,653"
+        },
+        {
+          "0": "Additions - - 7 19 8 - 34",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- - (2) (16) (2) -",
+          "2": "(20)"
+        },
+        {
+          "0": "Translation difference (2) (15) (9) (13) (6) 1 (44)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2023 172 1,388 623 1,023 411 6 3,623",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Accumulated depreciation as at July 1, 2023 - (564) (477) (722) (308) (5) (2,076)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (14) (15) (42) (12) -",
+          "2": "(83)"
+        },
+        {
+          "0": "Accumulated depreciation on deletions - - 2 16 2 - 20",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": "- 6 7 9 4 -",
+          "2": "26"
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2023 - (572) (483) (739) (314) (5) (2,113)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at July 1, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at July 1, 2023 174 839 150 311 103 0 1,638",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2023 172 816 140 284 97 1 1,587",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 14,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 14,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_63_table_1",
+      "data": [
+        {
+          "0": "Gross carrying value as at April 1, 2024",
+          "1": null,
+          "2": "171 1,411 637 1,032 406 6",
+          "3": "3,663"
+        },
+        {
+          "0": "Additions - 4 15 42 11 - 72",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Additions - Business Combination (Refer to Note 2.10)",
+          "1": "- - 1 1 3 -",
+          "2": null,
+          "3": "5"
+        },
+        {
+          "0": "Deletions - (5) (7) (32) (11) - (55)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Translation difference",
+          "1": null,
+          "2": "- (2) (2) (3) - -",
+          "3": "(7)"
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2024 171 1,408 644 1,040 409 6 3,678",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation as at April 1, 2024 - (590) (498) (765) (322) (5) (2,180)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Depreciation - (27) (24) (77) (20) - (148)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation on deletions",
+          "1": null,
+          "2": "- 1 7 31 11 -",
+          "3": "50"
+        },
+        {
+          "0": "Translation difference - 1 2 3 - - 6",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2024 - (615) (513) (808) (331) (5) (2,272)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Capital work-in progress as at April 1, 2024 54",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Carrying value as at April 1, 2024 171 821 139 267 84 1 1,537",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2024 80",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2024 171 793 131 232 78 1 1,486",
+          "1": null,
+          "2": null,
+          "3": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 15,
+        "num_cols": 4,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 15,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_63_table_2",
+      "data": [
+        {
+          "0": "Gross carrying value as at April 1, 2023 174 1,407 625 1,037 409 6 3,658",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 1 14 46 13 -",
+          "2": null,
+          "3": "74"
+        },
+        {
+          "0": "Deletions - - (8) (48) (6) - (62)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Translation difference",
+          "1": null,
+          "2": "(2) (20) (8) (12) (5) -",
+          "3": "(47)"
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2023 172 1,388 623 1,023 411 6 3,623",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation as at April 1, 2023 - (552) (468) (709) (300) (5) (2,034)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Depreciation - (27) (29) (86) (24) - (166)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation on deletions",
+          "1": null,
+          "2": "- - 8 48 5 -",
+          "3": "61"
+        },
+        {
+          "0": "Translation difference - 7 6 8 5 - 26",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2023 - (572) (483) (739) (314) (5) (2,113)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Capital work-in progress as at April 1, 2023 55",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Carrying value as at April 1, 2023 174 855 157 328 109 1 1,679",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2023 77",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2023 172 816 140 284 97 1 1,587",
+          "1": null,
+          "2": null,
+          "3": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 14,
+        "num_cols": 4,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 14,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_64_table_1",
+      "data": [
+        {
+          "0": null,
+          "1": "",
+          "2": null
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 6,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 6,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_64_table_2",
+      "data": [
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Balance as of July 1, 2024",
+          "1": null,
+          "2": "72 406 2 301",
+          "3": "781"
+        },
+        {
+          "0": "Additions - 13 1 47 61",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Addition due to Business Combination (Refer to Note 2.10)",
+          "1": null,
+          "2": "- 19 1 -",
+          "3": "20"
+        },
+        {
+          "0": "Deletions - (4) (1) (20) (25)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Depreciation",
+          "1": null,
+          "2": "- (20) (1) (26)",
+          "3": "(47)"
+        },
+        {
+          "0": "Translation difference - 1 1 6 8",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Balance as of September 30, 2024 72 415 3 308 798",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "",
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 11,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 11,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.7
+      }
+    },
+    {
+      "table_key": "page_64_table_3",
+      "data": [
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of July 1, 2023 75 481 2 301 859",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 8 1 50",
+          "2": "59"
+        },
+        {
+          "0": "Deletions - (4) - (21) (25)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (22) (1) (24)",
+          "2": "(47)"
+        },
+        {
+          "0": "Translation difference (1) (4) - (4) (9)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of September 30, 2023 74 459 2 302 837",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.7
+      }
+    },
+    {
+      "table_key": "page_65_table_1",
+      "data": [
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of April 1, 2024 72 396 2 316 786",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 46 1 81",
+          "2": "128"
+        },
+        {
+          "0": "Addition due to Business Combination (Refer to Note 2.10) - 19 1 - 20",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- (4) (1) (38)",
+          "2": "(43)"
+        },
+        {
+          "0": "Depreciation - (42) (1) (56) (99)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": "- - 1 5",
+          "2": "6"
+        },
+        {
+          "0": "Balance as of September 30, 2024 72 415 3 308 798",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 8,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 8,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.7
+      }
+    },
+    {
+      "table_key": "page_65_table_2",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of April 1, 2023 76 474 2 285 837",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 38 1 118",
+          "2": "157"
+        },
+        {
+          "0": "Deletions - (5) - (49) (54)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (44) (1) (48)",
+          "2": "(93)"
+        },
+        {
+          "0": "Translation difference (2) (4) - (4) (10)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of September 30, 2023 74 459 2 302 837",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 8,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 8,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_65_table_3",
+      "data": [
+        {
+          "0": "The aggregate depreciation expense on ROU assets is included in cost of sales in the interim condensed consolidated statement of comprehensive income.",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "nt lease liabilities as of September 30, 2024 and March 31, 2024"
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_65_table_4",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars"
+        },
+        {
+          "0": "Current lease liabilities"
+        },
+        {
+          "0": "Non-current lease liabilities 756 767"
+        },
+        {
+          "0": "Total 1,051 1,002"
+        }
+      ],
+      "metadata": {
+        "num_rows": 5,
+        "num_cols": 1,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 5,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_66_table_1",
+      "data": [
+        {
+          "0": "2.9 Goodwill and Intangible assets 2.9.1 Goodwill",
+          "1": null
+        },
+        {
+          "0": "Accounting Policy GoodwillrepresentspurchaseconsiderationinexcessoftheGroupsinterestinthenetfairvalueofidentifiableassets,liabilitiesandcontingentliabilitiesoftheacquired entity.Whenthenetfairvalueoftheidentifiableassets,liabilitiesandcontingentliabilitiesacquiredexceedsthepurchaseconsideration,thefairvalueofnetassetsacquired is reassessed and the bargain purchase gain is recognized immediatelyin the net profit in the Statement of Comprehensive Income. Goodwillis measured at cost less accumulated impairment losses. Impairment Goodwillistestedforimpairmentonanannualbasisandwheneverthereisanindicationthattherecoverableamountofacashgeneratingunit(CGU)islessthanitscarrying amount.Fortheimpairmenttest,goodwillisallocatedtotheCGUorgroupsofCGUswhichbenefitfromthesynergiesoftheacquisitionandwhichrepresentsthelowest levelat which goodwillis monitored forinternalmanagementpurposes. ACGUisthe smallestidentifiable groupofassetsthat generatescash inflowsthat arelargely independentofthecashinflowsfromotherassetsorgroupofassets.ImpairmentoccurswhenthecarryingamountofaCGUincludingthegoodwill,exceedstheestimated recoverableamountoftheCGU.TherecoverableamountofaCGUisthehigherofitsfairvaluelesscosttosellanditsvalue-in-use.Value-in-useisthepresentvalueof futurecashflowsexpectedtobederivedfromtheCGU.Keyassumptionsinthecashflowprojectionsarepreparedbasedoncurrenteconomicconditionsandincludes estimated long term growth rates, weighted average cost of capital and estimated operating margins. Following is a summary of changes in the carrying amount of goodwill (Dollars in millions)",
+          "1": null
+        },
+        {
+          "0": "As at",
+          "1": null
+        },
+        {
+          "0": "Particulars",
+          "1": null
+        },
+        {
+          "0": "Carrying value at the beginning 875 882",
+          "1": null
+        },
+        {
+          "0": "Goodwill on acquisitions (Refer to note 2.10) 309 -",
+          "1": null
+        },
+        {
+          "0": "Translation differences",
+          "1": null
+        },
+        {
+          "0": "Carrying value at the end 1,216 875",
+          "1": null
+        },
+        {
+          "0": "Forthepurposeofimpairmenttesting,goodwillacquiredinabusinesscombinationisallocatedtotheCGUorgroupsofCGUs,whichbenefitfromthesynergiesofthe acquisition.",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": ""
+        },
+        {
+          "0": null,
+          "1": ""
+        },
+        {
+          "0": null,
+          "1": ""
+        },
+        {
+          "0": null,
+          "1": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 13,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 13,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_66_table_2",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 1,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_81_table_1",
+      "data": [
+        {
+          "0": "Three months ended September 30, Six months ended September 30,"
+        },
+        {
+          "0": "2024 2023 2024 2023"
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 1,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_87_table_1",
+      "data": [
+        {
+          "0": null,
+          "1": "40,986 38,994 80,300 76,927"
+        },
+        {
+          "0": "Cost of sales 2.19 28,474 27,031 55,651 53,412",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_87_table_2",
+      "data": [
+        {
+          "0": "Operating profit 8,649 8,274 16,937 16,165",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "712 632 1,551 1,193"
+        },
+        {
+          "0": "Finance cost 108 138 214 228",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_87_table_3",
+      "data": [
+        {
+          "0": "Income tax expense 2.12 2,737 2,553 5,384 4,970",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "6,516 6,215 12,890 12,160"
+        },
+        {
+          "0": "",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_90_table_1",
+      "data": [
+        {
+          "0": "Impairment loss recognized(reversed) under expected credit loss model",
+          "1": "95.0",
+          "2": "206.0"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [
+          1,
+          2
+        ],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 2,
+          "has_totals": false
+        },
+        "confidence_score": 0.19999999999999998
+      }
+    },
+    {
+      "table_key": "page_90_table_2",
+      "data": [
+        {
+          "0": "Provision for post sale client support",
+          "1": "26 168"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_91_table_1",
+      "data": [
+        {
+          "0": "Other payments",
+          "1": "(265) (334)"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_91_table_2",
+      "data": [
+        {
+          "0": "Other receipts",
+          "1": "- 20"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "cash_flow",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_100_table_1",
+      "data": [
+        {
+          "0": "Other non financial assets (2) 155 180",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "931"
+        },
+        {
+          "0": "Total current prepayment and other assets 12,738 12,289",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_103_table_1",
+      "data": [
+        {
+          "0": "Gross carrying value as at July 1, 2024 1,430 11,743 5,361 8,617 3,346 45 30,542",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions on Business Combinations (Refer to Note 2.10) - 1 11 5 23 2 42",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference - 43 6 17 19 - 85",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2024 1,430 11,800 5,429 8,714 3,432 47 30,852",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Accumulated depreciation as at July 1, 2024 - (5,026) (4,259) (6,538) (2,710) (42) (18,575)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (113) (99) (321) (79) -",
+          "2": "(612)"
+        },
+        {
+          "0": "Accumulated depreciation on deletions - 1 33 96 29 - 159",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2024 - (5,151) (4,331) (6,771) (2,777) (42) (19,072)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at July 1, 2024",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at July 1, 2024 1,430 6,717 1,102 2,079 636 3 12,540",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2024",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2024 1,430 6,649 1,098 1,943 655 5 12,456",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 15,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 15,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_104_table_1",
+      "data": [
+        {
+          "0": "Gross carrying value as at July 1, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions - 4 50 164 66 - 284",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- - (19) (134) (17) -",
+          "2": "(170)"
+        },
+        {
+          "0": "Translation difference - 9 - (5) (1) - 3",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2023 1,429 11,527 5,201 8,496 3,421 45 30,119",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Accumulated depreciation as at July 1, 2023 - (4,631) (3,939) (5,922) (2,530) (41) (17,063)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (116) (118) (349) (100) (1)",
+          "2": "(684)"
+        },
+        {
+          "0": "Accumulated depreciation on deletions - - 19 134 15 - 168",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": "- (2) (2) 5 1 -",
+          "2": "2"
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2023 - (4,749) (4,040) (6,132) (2,614) (42) (17,577)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at July 1, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at July 1, 2023 1,429 6,883 1,231 2,549 843 4 13,438",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2023 1,429 6,778 1,161 2,364 807 3 13,179",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 15,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 15,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_104_table_2",
+      "data": [
+        {
+          "0": "Gross carrying value as at April 1, 2024",
+          "1": null,
+          "2": "1,430 11,770 5,341 8,611 3,390 45",
+          "3": "30,587"
+        },
+        {
+          "0": "Additions - 32 127 354 94 1 608",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Additions - Business Combination (Refer to Note 2.10)",
+          "1": "- 1 11 6 23 2",
+          "2": null,
+          "3": "43"
+        },
+        {
+          "0": "Deletions - (42) (55) (265) (90) (1) (453)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Translation difference",
+          "1": null,
+          "2": "- 39 5 8 15 -",
+          "3": "67"
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2024 1,430 11,800 5,429 8,714 3,432 47 30,852",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation as at April 1, 2024 - (4,921) (4,182) (6,380) (2,692) (42) (18,217)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Depreciation - (224) (199) (648) (161) (1) (1,233)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation on deletions",
+          "1": null,
+          "2": "- 6 55 259 89 1",
+          "3": "410"
+        },
+        {
+          "0": "Translation difference - (12) (5) (2) (13) - (32)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2024 - (5,151) (4,331) (6,771) (2,777) (42) (19,072)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Capital work-in progress as at April 1, 2024 448",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Carrying value as at April 1, 2024 1,430 6,849 1,159 2,231 698 3 12,818",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2024 676",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2024 1,430 6,649 1,098 1,943 655 5 12,456",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 16,
+        "num_cols": 4,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 16,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_104_table_3",
+      "data": [
+        {
+          "0": "Gross carrying value as at April 1, 2023",
+          "1": "1,429 11,562 5,169 8,519 3,365 45",
+          "2": "30,089"
+        },
+        {
+          "0": "Additions - 9 108 383 111 1 612",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- - (70) (400) (46) (1)",
+          "2": "(517)"
+        },
+        {
+          "0": "Translation difference - (44) (6) (6) (9) - (65)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Gross carrying value as at September 30, 2023 1,429 11,527 5,201 8,496 3,421 45 30,119",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Accumulated depreciation as at April 1, 2023 - (4,535) (3,877) (5,826) (2,465) (40) (16,743)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "- (225) (235) (711) (200) (2)",
+          "2": "(1,373)"
+        },
+        {
+          "0": "Accumulated depreciation on deletions - - 69 399 43 - 511",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": "- 11 3 6 8 -",
+          "2": "28"
+        },
+        {
+          "0": "Accumulated depreciation as at September 30, 2023 - (4,749) (4,040) (6,132) (2,614) (42) (17,577)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at April 1, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at April 1, 2023 1,429 7,027 1,292 2,693 900 5 13,793",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Capital work-in progress as at September 30, 2023",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Carrying value as at September 30, 2023 1,429 6,778 1,161 2,364 807 3 13,179",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 14,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 14,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_106_table_1",
+      "data": [
+        {
+          "0": "",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": ""
+        },
+        {
+          "0": null,
+          "1": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_106_table_2",
+      "data": [
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Balance as of July 1, 2024 603 3,387 17 2,505 6,512",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Additions(1)",
+          "1": null,
+          "2": "- 112 3 390",
+          "3": "505"
+        },
+        {
+          "0": "Addition due to business combination (Refer to note 2.10) - 155 5 - 160",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Deletions",
+          "1": null,
+          "2": "- (35) (6) (166)",
+          "3": "(207)"
+        },
+        {
+          "0": "Depreciation (1) (167) (4) (225) (397)",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": "Translation difference",
+          "1": null,
+          "2": "2 29 8 80",
+          "3": "119"
+        },
+        {
+          "0": "Balance as of September 30, 2024 604 3,481 23 2,584 6,692",
+          "1": null,
+          "2": null,
+          "3": null
+        },
+        {
+          "0": null,
+          "1": "",
+          "2": null,
+          "3": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 9,
+        "num_cols": 4,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 9,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.7
+      }
+    },
+    {
+      "table_key": "page_107_table_1",
+      "data": [
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of July 1, 2023",
+          "1": "617 3,947 15 2,470",
+          "2": "7,049"
+        },
+        {
+          "0": "Additions(1) - 82 3 418 503",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- (32) - (174)",
+          "2": "(206)"
+        },
+        {
+          "0": "Depreciation (1) (179) (3) (202) (385)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Translation difference",
+          "1": "- (7) - (4)",
+          "2": "(11)"
+        },
+        {
+          "0": "Balance as of September 30, 2023 616 3,811 15 2,508 6,950",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.7
+      }
+    },
+    {
+      "table_key": "page_107_table_2",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of April 1, 2024",
+          "1": "605 3,298 17 2,632",
+          "2": "6,552"
+        },
+        {
+          "0": "Additions(1) - 385 6 674 1,065",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Addition due to Business Combination (Refer to note 2.10)",
+          "1": "- 155 5 -",
+          "2": "160"
+        },
+        {
+          "0": "Deletions - (35) (6) (315) (356)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "(3) (348) (6) (473)",
+          "2": "(830)"
+        },
+        {
+          "0": "Translation difference 2 26 7 66 101",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of September 30, 2024 604 3,481 23 2,584 6,692",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 9,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 9,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_107_table_3",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Vehicles Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of April 1, 2023 623 3,896 15 2,348 6,882",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions(1)",
+          "1": "- 326 5 975",
+          "2": "1,306"
+        },
+        {
+          "0": "Deletions - (40) - (407) (447)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "(3) (363) (5) (394)",
+          "2": "(765)"
+        },
+        {
+          "0": "Translation difference (4) (8) - (14) (26)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as of September 30, 2023 616 3,811 15 2,508 6,950",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 8,
+        "num_cols": 3,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 8,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_107_table_4",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars Se"
+        },
+        {
+          "0": "Current lease liabilities"
+        },
+        {
+          "0": "Non-current lease liabilities 6,336 6,400"
+        },
+        {
+          "0": "Total 8,804 8,359"
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 6,
+        "num_cols": 1,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 6,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_108_table_1",
+      "data": [
+        {
+          "0": "2.9 Goodwill and Intangible assets 2.9.1 Goodwill"
+        },
+        {
+          "0": "Accounting Policy GoodwillrepresentsthepurchaseconsiderationinexcessoftheGroupsinterestinthenetfairvalueofidentifiableassets,liabilitiesandcontingent liabilitiesoftheacquiredentity.Whenthenetfairvalueoftheidentifiableassets,liabilitiesandcontingentliabilitiesacquiredexceedsthepurchase consideration, the fair value ofnet assetsacquired isreassessed andthe bargainpurchase gainisrecognized immediatelyinthe netprofit inthe Statement of Comprehensive Income. Goodwill is measured at cost less accumulated impairment losses. Impairment Goodwillistestedforimpairmentonanannualbasisandwheneverthereisanindicationthattherecoverableamountofacashgeneratingunit(CGU) islessthanitscarryingamount.Fortheimpairmenttest,goodwillisallocatedtotheCGUorgroupsofCGUswhichbenefitfromthesynergiesofthe acquisitionandwhichrepresentsthelowestlevelatwhichgoodwillismonitoredforinternalmanagementpurposes.ACGUisthesmallestidentifiable groupofassetsthatgeneratescashinflowsthatarelargelyindependentofthecashinflowsfromotherassetsorgroupofassets.Impairmentoccurs whenthecarryingamountofaCGUincludingthegoodwill,exceedstheestimatedrecoverableamountoftheCGU.TherecoverableamountofaCGU isthehigherofitsfairvaluelesscosttosellanditsvalue-in-use.Value-in-useisthepresentvalueoffuturecashflowsexpectedtobederivedfromthe CGU.Keyassumptionsinthecashflowprojectionsarepreparedbasedoncurrenteconomicconditionsandincludesestimatedlongtermgrowthrates, weighted average cost of capital and estimated operating margins. Following is a summary of changes in the carrying amount of goodwill (In  crore)"
+        },
+        {
+          "0": "As at Particulars September 30, 2024 March 31, 2024"
+        },
+        {
+          "0": "Carrying value at the beginning 7,303 7,248"
+        }
+      ],
+      "metadata": {
+        "num_rows": 4,
+        "num_cols": 1,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 4,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_108_table_2",
+      "data": [
+        {
+          "0": "Translation differences 295 55",
+          "1": null
+        },
+        {
+          "0": "Carrying value at the end 10,191 7,303",
+          "1": null
+        },
+        {
+          "0": "Forthepurposeofimpairmenttesting,goodwillacquiredinabusinesscombinationisallocatedtotheCGUsorgroupsofCGUs,whicharebenefited from the synergies of the acquisition.",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": ""
+        },
+        {
+          "0": null,
+          "1": ""
+        },
+        {
+          "0": null,
+          "1": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 6,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 6,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_108_table_3",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 1,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_118_table_1",
+      "data": [
+        {
+          "0": "Total",
+          "1": "",
+          "2": "40,986 38,994 80,300 76,927"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_123_table_1",
+      "data": [
+        {
+          "0": "Total 2,008 1,935 3,920 3,812"
+        },
+        {
+          "0": "Other income for the three months and six months ended September 30, 2024 and September 30, 2023 is as follows"
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 3,
+        "num_cols": 1,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 3,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_123_table_2",
+      "data": [
+        {
+          "0": "Interest income on financial assets carried at amortized cost 373 275 710 549",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "218 214 547 457"
+        },
+        {
+          "0": "Gain(loss) on investments carried at fair value through other comprehensive income 2 - 2 -",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "72 48 181 100"
+        },
+        {
+          "0": "Exchange gains  (losses) on forward and options contracts (399) (71) (365) 63",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 5,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 5,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_123_table_3",
+      "data": [
+        {
+          "0": "Others 60 48 88 43",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "712 632 1,551 1,193"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": "",
+          "2": null
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 5,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 5,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_128_table_1",
+      "data": [
+        {
+          "0": "Income tax liabilities (net)",
+          "1": "3,723 2,962"
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_139_table_1",
+      "data": [
+        {
+          "0": null,
+          "1": "",
+          "2": null
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 6,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 6,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_139_table_2",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as at July 1, 2024",
+          "1": "533 2,237 517",
+          "2": "3,287"
+        },
+        {
+          "0": "Additions - (10) 175 165",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- - (26)",
+          "2": "(26)"
+        },
+        {
+          "0": "Depreciation (1) (94) (62) (157)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as at September 30, 2024 532 2,133 604 3,269",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_139_table_3",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as at July 1, 2023 547 2,801 338 3,686",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 32 153",
+          "2": "185"
+        },
+        {
+          "0": "Deletions - (28) (17) (45)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "(1) (116) (41)",
+          "2": "(158)"
+        },
+        {
+          "0": "Balance as at September 30, 2023 546 2,689 433 3,668",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_139_table_4",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as at April 1, 2024",
+          "1": "534 2,266 503",
+          "2": "3,303"
+        },
+        {
+          "0": "Additions - 78 284 362",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Deletions",
+          "1": "- - (69)",
+          "2": "(69)"
+        },
+        {
+          "0": "Depreciation (2) (211) (114) (327)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as at September 30, 2024 532 2,133 604 3,269",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_140_table_1",
+      "data": [
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Particulars Category of ROU asset Total Land Buildings Computers",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Balance as at April 1, 2023 548 2,669 344 3,561",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Additions",
+          "1": "- 288 225",
+          "2": "513"
+        },
+        {
+          "0": "Deletions - (30) (63) (93)",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": "Depreciation",
+          "1": "(2) (238) (73)",
+          "2": "(313)"
+        },
+        {
+          "0": "Balance as at September 30, 2023 546 2,689 433 3,668",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 7,
+        "num_cols": 3,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 7,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.4
+      }
+    },
+    {
+      "table_key": "page_140_table_2",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars As at September 30, 2024 March 31, 2024"
+        },
+        {
+          "0": "Current lease liabilities"
+        },
+        {
+          "0": "Non-current lease liabilities 3,021 3,088"
+        },
+        {
+          "0": "Total 3,836 3,766"
+        }
+      ],
+      "metadata": {
+        "num_rows": 5,
+        "num_cols": 1,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 5,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_146_table_1",
+      "data": [
+        {
+          "0": "Investments (Refer to note 2.4)",
+          "1": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.3
+      }
+    },
+    {
+      "table_key": "page_151_table_1",
+      "data": [
+        {
+          "0": "Total trade payables 2,821 2,493",
+          "1": null
+        },
+        {
+          "0": null,
+          "1": "894 778"
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_163_table_1",
+      "data": [
+        {
+          "0": "Total equity and liabilities 141,870 137,814"
+        },
+        {
+          "0": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 1,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.5
+      }
+    },
+    {
+      "table_key": "page_176_table_1",
+      "data": [
+        {
+          "0": "Investments carried at fair value through profit or loss 2,947 3,244"
+        },
+        {
+          "0": "(1) Uncalled capital commitments outstanding as at September 30, 2024 and March 31, 2024 was 109 crore and 79 crore, respectively."
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 1,
+        "table_type": "balance_sheet",
+        "has_headers": true,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.3
+      }
+    },
+    {
+      "table_key": "page_178_table_1",
+      "data": [
+        {
+          "0": "Deferred Contract Cost",
+          "1": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_178_table_2",
+      "data": [
+        {
+          "0": "Deferred Contract Cost",
+          "1": ""
+        }
+      ],
+      "metadata": {
+        "num_rows": 1,
+        "num_cols": 2,
+        "table_type": "general_financial",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 1,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_190_table_1",
+      "data": [
+        {
+          "0": null,
+          "1": "72,455"
+        },
+        {
+          "0": "Revenue from products and platforms 1,853 2,274 3,671 4,472",
+          "1": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 2,
+        "num_cols": 2,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 2,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "table_key": "page_193_table_1",
+      "data": [
+        {
+          "0": null,
+          "1": "",
+          "2": null
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null
+        }
+      ],
+      "metadata": {
+        "num_rows": 6,
+        "num_cols": 3,
+        "table_type": "balance_sheet",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 6,
+          "numeric_columns": 0,
+          "has_totals": false
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_194_table_1",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars Category of ROU asset Land Buildings Vehicles Computers Total"
+        },
+        {
+          "0": "Balance as of July 1, 2024 603 3,387 17 2,505"
+        },
+        {
+          "0": "Additions  112 3 390 505"
+        },
+        {
+          "0": "Addition due to Business Combination (Refer Note 2.1)"
+        },
+        {
+          "0": "Deletions  (35) (6) (166) (207)"
+        },
+        {
+          "0": "Depreciation"
+        },
+        {
+          "0": "Translation difference 2 29 8 80 119"
+        },
+        {
+          "0": "Balance as of September 30, 2024 604 3,481 23 2,584 6,692"
+        }
+      ],
+      "metadata": {
+        "num_rows": 9,
+        "num_cols": 1,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 9,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_194_table_2",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars Category of ROU asset Land Buildings Vehicles Computers Total"
+        },
+        {
+          "0": "Balance as of July 1, 2023"
+        },
+        {
+          "0": "Additions  82 3 418 503"
+        },
+        {
+          "0": "Deletions"
+        },
+        {
+          "0": "Depreciation (1) (179) (3) (202) (385)"
+        },
+        {
+          "0": "Translation difference"
+        },
+        {
+          "0": "Balance as of September 30, 2023 616 3,811 15 2,508 6,950"
+        }
+      ],
+      "metadata": {
+        "num_rows": 8,
+        "num_cols": 1,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 8,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_194_table_3",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars Category of ROU asset Land Buildings Vehicles Computers Total"
+        },
+        {
+          "0": "Balance as of April 1, 2024 605 3,298 17 2,632"
+        },
+        {
+          "0": "Additions  385 6 674 1,065"
+        },
+        {
+          "0": "Addition due to Business Combination (Refer to Note 2.1)"
+        },
+        {
+          "0": "Deletions  (35) (6) (315) (356)"
+        },
+        {
+          "0": "Depreciation"
+        },
+        {
+          "0": "Translation difference 2 26 7 66 101"
+        },
+        {
+          "0": "Balance as of September 30, 2024 604 3,481 23 2,584 6,692"
+        }
+      ],
+      "metadata": {
+        "num_rows": 9,
+        "num_cols": 1,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 9,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_194_table_4",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars Category of ROU asset Land Buildings Vehicles Computers Total"
+        },
+        {
+          "0": "Balance as of April 1, 2023 623 3,896 15 2,348 6,882"
+        },
+        {
+          "0": "Additions"
+        },
+        {
+          "0": "Deletions  (40)  (407) (447)"
+        },
+        {
+          "0": "Depreciation"
+        },
+        {
+          "0": "Translation difference (4) (8)  (14) (26)"
+        },
+        {
+          "0": "Balance as of September 30, 2023 616 3,811 15 2,508 6,950"
+        }
+      ],
+      "metadata": {
+        "num_rows": 8,
+        "num_cols": 1,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 8,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    },
+    {
+      "table_key": "page_194_table_5",
+      "data": [
+        {
+          "0": ""
+        },
+        {
+          "0": "Particulars As at"
+        },
+        {
+          "0": ""
+        },
+        {
+          "0": "Current lease liabilities 2,468 1,959"
+        },
+        {
+          "0": "Non-current lease liabilities"
+        },
+        {
+          "0": "Total 8,804 8,359"
+        }
+      ],
+      "metadata": {
+        "num_rows": 6,
+        "num_cols": 1,
+        "table_type": "income_statement",
+        "has_headers": false,
+        "numeric_columns": [],
+        "financial_metrics": {
+          "total_rows": 6,
+          "numeric_columns": 0,
+          "has_totals": true
+        },
+        "confidence_score": 0.2
+      }
+    }
+  ]
+}
