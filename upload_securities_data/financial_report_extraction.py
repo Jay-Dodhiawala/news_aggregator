@@ -298,7 +298,7 @@ class FinancialContentExtractor:
         
         return '\n\n' + '='*80 + '\n\n'.join(cleaned_sections)
 
-    def upload_results(self, company_name: str, doc_id: str, pdf_name: str, supabase_client, content: list, tables: list[dict[Any, Any]]) -> bool:
+    def upload_results(self, company_name: str, doc_id: str, pdf_name: str, supabase_client, content: list, category_name, subcategory_name, tables: list[dict[Any, Any]]) -> bool:
         """
         Upload the extracted content to a cloud storage bucket
         
@@ -353,6 +353,8 @@ class FinancialContentExtractor:
                             'document_id': str(doc_id),
                             'content_hash': content_hash,
                             'company_id': company_name,
+                            'categoty_name': category_name,
+                            'subcategory_name': subcategory_name,
                         }
                     )
 

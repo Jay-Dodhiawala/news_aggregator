@@ -429,7 +429,7 @@ def download_pdf(pdf_name: str) -> str:
 
     return download_pdf_from_link(pdf_url)
 
-def process_pdf_and_insert(doc_id, company_id, pdf_name, pdf_text, supabase_client):
+def process_pdf_and_insert(doc_id, company_id, pdf_name, pdf_text, category_name, subcategory_name, supabase_client):
 # def process_pdf_and_insert(document_id, pdf_name, pdf_text, supabase_client, vector_store):
 
     # Split text into smaller chunks using RecursiveCharacterTextSplitter
@@ -466,7 +466,9 @@ def process_pdf_and_insert(doc_id, company_id, pdf_name, pdf_text, supabase_clie
             metadata={
                 'document_id': str(doc_id),
                 'content_hash': content_hash,
-                'company_id': str(company_id)
+                'company_id': str(company_id),
+                'categoty_name': category_name,
+                'subcategory_name': subcategory_name
                 # 'content_link': blob_file_path,
             }
         )
@@ -533,11 +535,11 @@ def upload_documents_info(data: list, supabase_client):
                 print(f"Processing financial data for {pdf_name}")
                 content, tables = fin_extractor.process_pdf()
                 print("Content and table present")
-                fin_extractor.upload_results(get_company_name(str(company_code)), doc_id, pdf_name, supabase_client, content, tables)
+                fin_extractor.upload_results(get_company_name(str(company_code)), doc_id, pdf_name, supabase_client, content, category_name, subcategory_name, tables)
         else:
             # Add it to chunks table
             pdf_content = download_pdf(pdf_name)
-            process_pdf_and_insert(doc_id, company_id, pdf_name, pdf_content, supabase_client)
+            process_pdf_and_insert(doc_id, company_id, pdf_name, pdf_content, category_name, subcategory_name, supabase_client)
 
         
     

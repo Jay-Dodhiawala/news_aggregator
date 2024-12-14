@@ -635,10 +635,10 @@ async def process_stock_announcements(stock_names: list):
 async def main():
     start = time.time()
     # Get list of stock IDs
-    stock_names = get_bse_ids()  # Use your actual stock list
+    # stock_names = get_bse_ids()  # Use your actual stock list
     # stock_names = ["PURPLEFIN", "ARIES", "NATIONSTD", "BATLIBOI", "GSFC", "MOTHERSON", "DUROPLY", \
     #                "CTL", "APCL", "IRMENERGY", "SHARDACROP", "GILLETTE", "UDAYJEW", "AHLEAST", "SOFTSOL" ]  # Add your stock list here
-    # stock_names = ["CEINSYSTECH"]  # Add your stock list here
+    stock_names = ["RELIANCE"]  # Add your stock list here
     logger.info(f"Starting processing for {len(stock_names)} stocks")
     
     try:
