@@ -399,7 +399,8 @@ class NewAnnouncement:
             try:
                 response_data = json.loads(response)
                 logger.info(f"Processing {len(response_data)} announcements for {stock_name}")
-                processed_announcements = self.process_announcement(response_data)
+                processed_announcements = response_data
+                # processed_announcements = self.process_announcement(response_data)
                 
                 # Insert announcement
                 success = await self._insert_announcement(stock_name, response, content_hash, processed_announcements)
