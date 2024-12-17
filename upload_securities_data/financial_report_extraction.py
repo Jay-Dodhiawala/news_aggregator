@@ -353,7 +353,7 @@ class FinancialContentExtractor:
                             'document_id': str(doc_id),
                             'content_hash': content_hash,
                             'company_id': company_name,
-                            'categoty_name': category_name,
+                            'category_name': category_name,
                             'subcategory_name': subcategory_name,
                         }
                     )
