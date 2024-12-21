@@ -70,14 +70,15 @@ class NewAnnouncementChecker:
         
         return unique_data
         
-    async def _store_announcement(self, stock_name: str, content: str, title:str) -> bool:
+    async def _store_announcement(self, stock_name: str, content: str, title:str, is_fin_res:bool) -> bool:
         # async def _store_announcement(self, stock_name: str, content: str, summary: str, content_hash: str) -> bool:
         """Store announcement in recent_announcements_2 table"""
         try:
             data = {
                 "stock_name": stock_name.upper(),
                 "content": content,
-                "title": title
+                "title": title,
+                "is_financial_report": is_fin_res
                 # "summary": summary,
                 # "hash": content_hash
             }
@@ -156,13 +157,14 @@ class NewAnnouncementChecker:
         try:
             pdf_name = announcement.get("ATTACHMENTNAME")
             title = announcement.get("MORE")
+            subcategory = announcement.get("SUBCATNAME")
             if title == "":
                 title = announcement.get("HEADLINE")
-            return pdf_name, title
+            return pdf_name, title, subcategory == "Financial Results"
             
         except Exception as e:
             print(f"Error processing announcement content: {e}")
-            return None, None
+            return None, None, None
 
     async def queue_announcements(self) -> None:
         """Add new announcements to the processing queue"""
@@ -184,7 +186,7 @@ class NewAnnouncementChecker:
                     continue
 
                 # Process announcement content
-                content, title = await self.process_announcement_content(announcement)
+                content, title, is_fin_result = await self.process_announcement_content(announcement)
                 # if not content:
                 #     continue
 
@@ -199,7 +201,8 @@ class NewAnnouncementChecker:
                 stored = await self._store_announcement(
                     company_name,
                     content,
-                    title
+                    title,
+                    is_fin_result
                     # summary,
                 )
                 
